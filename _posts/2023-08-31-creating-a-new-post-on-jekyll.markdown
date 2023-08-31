@@ -3,6 +3,7 @@ layout: post
 title:  Creating a new Post on Jekyll
 date:   2023-08-31 11:31:00 -0400
 categories: Jekyll
+published: true
 ---
 
 ## Introduction
@@ -38,6 +39,11 @@ help me understand which one should be used to achieve it.
 While the initial theme (minima) is a nice quickstart, I'm stil confused
 on how I can alter it down, it seems like I need to create a new theme
 or a new layout to alter it down to add what need to be added.
+
+Edit: I just found out that theres a Frotn-matter called `published`.
+When it is set to false it hides the page for good. The first question I
+have from that is, why this is not defaulted generated? Why those
+neat options are hidden from everybody else?
 
 ## References
 
