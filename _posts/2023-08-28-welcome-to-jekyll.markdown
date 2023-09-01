@@ -40,8 +40,8 @@ To better evaluate it, I'm gonna create a list of things I want to achieve and l
 how far I could go.
 
 - [ ] Generate a GH Page and host it
-- [ ] Host it in my own cloud. (nginx)
-- [ ] Create a landing page with the introduction of myself.
+- [ ] Host it in my own cloud (nginx)
+- [ ] Create a landing page with the introduction of myself
 - [ ] Create a Resume page
 - [ ] Write my own theme
 - [ ] Write my own plugin
