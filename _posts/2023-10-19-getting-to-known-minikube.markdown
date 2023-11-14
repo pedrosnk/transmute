@@ -14,4 +14,3 @@ I've been using it for years but I only use when it is needed.
 To be more productive I need to invest more time on it.
 
 For that I devided to start my journey with minikube and see where it can get me
-
