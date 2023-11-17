@@ -66,3 +66,40 @@ Built data visualization tools for the biggest Telecom Companies in Brazil. Such
 #### Software Analyst (04/2013 - 01/2014)
 
 Worked on multiple contractors for data collection and analysis dashboards. Created multiple mobile apps with the intent of monitoring the core business of our clients.
+
+### EBC
+#### System Analyst (03/2012 - 03/2013)
+
+Web development
+
+### Eldorado Research Institute
+#### Software Analyst (02/2011 - 03/2012)
+
+Mobile Apps development in both C++ and Java for Android and Bada.
+
+### Poliedro
+#### Java Developer (02/2010)
+
+Developed Java web apps for the Brazilian gouvenment Mostly notably using the framework JBoss Seam.
+
+### Catholic University of Brasília
+#### Researcher (02/2010 - 12/2010)
+
+Massivelly collect social media connections in order to detect possible frauds on the gouvernment
+services.
+
+### Brisa 
+#### System Analyst (01/2008 - 02/2010)
+
+Embeded system development for LG feature phones in C/C++.
+
+### Software Factory (Catholic University of Brasília)
+#### Interniship
+
+Interniship in developing ETL and Data mining for some the public sector.
+
+## Education
+
+### Catholic University of Brasília / BAC in Computer Science
+
+2005 - 2010, Brasília, DF, Brazil.
